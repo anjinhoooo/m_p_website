@@ -2,7 +2,7 @@
   "name": "m-p-webbbb",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://anjinhoooo.github.io/m_p_website/",
+  "homepage": "https://anjinhoooo.github.io/m_p_website",
   "type": "module",
   "scripts": {
     "dev": "vite",
